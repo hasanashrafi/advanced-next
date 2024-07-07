@@ -23,7 +23,7 @@ function Languages() {
             <div className='flex flex-wrap justify-center gap-6 p-5 '>
 
                 <div className='w-[400px] border border-gray-700 rounded-b-md'>
-                    <Image width={200} height={200} alt='php' src="/images/1.jpg" className='w-full h-[250px]   transition-all hover:scale-105 cursor-pointer' />
+                    <Image width={200} height={200} alt='php' src="/images/1.jpg" className='w-full h-[250px]    cursor-pointer' />
                     <div>
                         <p className='p-2 text-xl text-white font-semibold mt-2'>PHP: Hypertext Preprocessor</p>
                         <p className='p-2 text-gray-500 text-start'>
@@ -41,7 +41,7 @@ function Languages() {
                 </div>
 
                 <div className='w-[400px] border border-gray-700 rounded-b-md'>
-                    <Image width={200} height={200} alt='design' src="/images/2.jpg" className=' w-full h-[250px] transition-all hover:scale-105 cursor-pointer' />
+                    <Image width={200} height={200} alt='design' src="/images/2.jpg" className=' w-full h-[250px]  cursor-pointer' />
                     <div>
                         <p className='text-xl text-white font-semibold mt-2 p-2'>
                             What is Java and why is it used?
@@ -61,7 +61,7 @@ function Languages() {
                 </div>
 
                 <div className='w-[400px] border border-gray-700 rounded-b-md'>
-                    <Image width={200} height={200} alt='javascript' src="/images/3.jpg" className='overflow-hidden w-full h-[250px]  transition-all hover:scale-105 cursor-pointer' />
+                    <Image width={200} height={200} alt='javascript' src="/images/3.jpg" className='overflow-hidden w-full h-[250px]   cursor-pointer' />
                     <div>
                         <p className='text-xl text-white font-semibold mt-2 p-2'>
                             The Modern JavaScript
@@ -81,7 +81,7 @@ function Languages() {
                 </div>
 
                 <div className='w-[400px] border border-gray-700 text-wrap rounded-b-md overflow-hidden'>
-                    <Image width={200} height={200} alt='django' src="/images/4.jpg" className='w-full h-[250px]  transition-all hover:scale-105 cursor-pointer' />
+                    <Image width={200} height={200} alt='django' src="/images/4.jpg" className='w-full h-[250px]   cursor-pointer' />
                     <div>
                         <p className='text-xl text-white font-semibold mt-2 p-2'>
                         Django: The web framework for perfectionists
