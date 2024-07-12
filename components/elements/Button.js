@@ -1,9 +1,11 @@
+import func from '@/utils/func'
 import React from 'react'
 
 function Button() {
+  
   return (
-    <div>
-    Button
+    <div className='bg-red-500 p-2'>
+    Button Page
     </div>
   )
 }
