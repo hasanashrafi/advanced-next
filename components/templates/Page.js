@@ -3,7 +3,7 @@ import Button from '../elements/Button'
 
 function Page() {
   return (
-    <div>
+    <div className='bg-white w-full p-5'>
     <Button/>
     </div>
   )
