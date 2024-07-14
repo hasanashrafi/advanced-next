@@ -1,0 +1,5 @@
+User-agent:*
+Allow: /
+DissAllow: /dashboard
+
+Aitemap: https://advanced-next/sitemap.xml
